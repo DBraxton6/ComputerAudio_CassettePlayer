@@ -1,6 +1,6 @@
 ﻿# ComputerAudio_CassettePlayer
 
-For this project, I used the basic implementation of a cassette tape. The program has the ability to play, stop, fast-forward, rewind, and reset a sound.
+This program was written in Processing. I used the basic implementation of a cassette tape. The program has the ability to play, stop, fast-forward, rewind, and reset a sound.
 
 Each function performs as they are labeled. Play starts a sound from the beginning and then resumes from where it is altered (ie. when stopped, fast-forwarded, or rewinded). Stop pauses the sound, fast-forward, rewind do as labeled. Reset starts the music from the beginning.
 
